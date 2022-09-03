@@ -13,9 +13,3 @@ export const CategoryTitle = styled.h2`
   text-align: center;
 `;
 
-// .category-container {
-
-// }
-// .category-title {
-
-// }
